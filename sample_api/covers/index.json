@@ -1,12 +1,98 @@
 [
   {
-    "textId": "summer",
+    "textId": "the-edge-of-the-world",
     "title": "История про лето",
-    "image": "some"
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/the-edge-of-the-world/cover-original.jpg",
+    "rating": 4.5
   },
   {
-    "textId": "watcher",
-    "title": "Страж",
-    "image": "some-2"
+    "textId": "innocent-sin",
+    "title": "Невинный грех",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/innocent-sin/cover-original.jpg",
+    "rating": 3
+  },
+  {
+    "textId": "interrogation",
+    "title": "Допрос",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/dzuma/cover-original.jpg",
+    "rating": 4.1
+  },
+  {
+    "textId": "i-know-what-you-did-last-night",
+    "title": "Я знаю, что вы сделали прошлым вечером",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/i-know-what-you-did-last-night/cover-original.jpg",
+    "rating": 3.8
+  },
+  {
+    "textId": "open-eyes",
+    "title": "Открой глаза",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/open-eyes/cover-original.jpg",
+    "rating": 4.8
+  },
+  {
+    "textId": "desperate-travelers",
+    "title": "Отчаянные путники",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/desperate-travelers/cover-original.jpg",
+    "rating": 0
+  },
+  {
+    "textId": "i-know-you-saw",
+    "title": "Я знаю, что ты всё видел",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/I-know-you-saw/cover-original.jpg",
+    "rating": 3.9
+  },
+  {
+    "textId": "train",
+    "title": "Ночной поезд",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/train/cover-original.jpg",
+    "rating": 3.2
+  },
+  {
+    "textId": "maniac",
+    "title": "Ночёвка у маньяка",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/maniac/cover-original.jpg",
+    "rating": 4.1
+  },
+  {
+    "textId": "blood-type-2",
+    "title": "Группа крови №5. Часть 2 (Блуждающая в лесу)",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/blood-type-2/cover-original.jpg",
+    "rating": 4.8
+  },
+  {
+    "textId": "artificial-intelligence",
+    "title": "Искусственный интеллект",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/artificial-intelligence/cover-original.jpg",
+    "rating": 4.2
+  },
+  {
+    "textId": "lost-time",
+    "title": "Потерянное время",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/lost-time/cover-original.jpg",
+    "rating": 4.2
+  },
+  {
+    "textId": "heritage",
+    "title": "Наследие",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/heritage/cover-original.jpg",
+    "rating": 4.8
+  },
+  {
+    "textId": "crimson-sunset",
+    "title": "Малиновый закат",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/crimson-sunset/cover-original.jpg",
+    "rating": 4.6
+  },
+  {
+    "textId": "past-mistakes",
+    "title": "Ошибки прошлого",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/past-mistakes/cover-original.jpg",
+    "rating": 3.7
+  },
+  {
+    "textId": "special",
+    "title": "Особенная",
+    "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/special/cover-original.jpg",
+    "rating": 4
   }
 ]
