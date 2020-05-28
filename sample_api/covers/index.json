@@ -1,98 +1,130 @@
 [
   {
     "textId": "the-edge-of-the-world",
-    "title": "История про лето",
+    "title": "Край света",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/the-edge-of-the-world/cover-original.jpg",
-    "rating": 4.5
+    "rating": 4.5,
+    "description": "Есть на Земле места, прекрасные и далёкие, куда люди стремятся всею силою, но дойти туда можно только в одиночестве...",
+    "author": "По мотивам пьесы Ингеборга фон Цадова «Помпиния» в переводе Павла Руднёва"
   },
   {
     "textId": "innocent-sin",
     "title": "Невинный грех",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/innocent-sin/cover-original.jpg",
-    "rating": 3
+    "rating": 3,
+    "description": "Оливия всегда жила в достатке и ни в чём себе не отказывала. Но однажды её обвинили в преступлении, которого она не совершала.",
+    "author": "Jami_llin"
   },
   {
     "textId": "interrogation",
     "title": "Допрос",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/dzuma/cover-original.jpg",
-    "rating": 4.1
+    "rating": 4.1,
+    "description": "Мы сами себе и судьи, и адвокаты, и тюремщики.",
+    "author": "Kess (по мотивам истории Станио Желева)"
   },
   {
     "textId": "i-know-what-you-did-last-night",
     "title": "Я знаю, что вы сделали прошлым вечером",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/i-know-what-you-did-last-night/cover-original.jpg",
-    "rating": 3.8
+    "rating": 3.8,
+    "description": "Как далеко они готовы зайти, чтобы скрыть своё преступление?",
+    "author": "Lora Lane"
   },
   {
     "textId": "open-eyes",
     "title": "Открой глаза",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/open-eyes/cover-original.jpg",
-    "rating": 4.8
+    "rating": 4.8,
+    "description": "Ведя свою игру, не стоит забывать о последствиях.",
+    "author": "D. Washington"
   },
   {
     "textId": "desperate-travelers",
     "title": "Отчаянные путники",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/desperate-travelers/cover-original.jpg",
-    "rating": 0
+    "rating": 0,
+    "description": "Ты добрался сюда? Молодец. Но знай, тебе скоро конец.",
+    "author": "Alina Hmel"
   },
   {
     "textId": "i-know-you-saw",
     "title": "Я знаю, что ты всё видел",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/I-know-you-saw/cover-original.jpg",
-    "rating": 3.9
+    "rating": 3.9,
+    "description": "Он увидел то, чего видеть не стоило...",
+    "author": "ATRA_MORS"
   },
   {
     "textId": "train",
     "title": "Ночной поезд",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/train/cover-original.jpg",
-    "rating": 3.2
+    "rating": 3.2,
+    "description": "Бойся своих желаний — они имеют свойство сбываться.",
+    "author": "Rina (по мотивам рассказа Шона Дюнна «Ночной поезд»)"
   },
   {
     "textId": "maniac",
     "title": "Ночёвка у маньяка",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/maniac/cover-original.jpg",
-    "rating": 4.1
+    "rating": 4.1,
+    "description": "",
+    "author": ""
   },
   {
     "textId": "blood-type-2",
     "title": "Группа крови №5. Часть 2 (Блуждающая в лесу)",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/blood-type-2/cover-original.jpg",
-    "rating": 4.8
+    "rating": 4.8,
+    "description": "Группа подростков отправляется на отдых, только вот место они выбрали не самое подходящее.",
+    "author": "Глеб Кириллов"
   },
   {
     "textId": "artificial-intelligence",
     "title": "Искусственный интеллект",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/artificial-intelligence/cover-original.jpg",
-    "rating": 4.2
+    "rating": 4.2,
+    "description": "А вы когда-нибудь задумывались о том, что искусственный интеллект решит, что он умнее человечества и поработит весь мир?",
+    "author": "Deutsche Katze"
   },
   {
     "textId": "lost-time",
     "title": "Потерянное время",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/lost-time/cover-original.jpg",
-    "rating": 4.2
+    "rating": 4.2,
+    "description": "Рейчел ещё в детстве потеряла родителей. Сможет ли она повернуть время вспять, чтобы встретиться с ними?",
+    "author": "Invisible"
   },
   {
     "textId": "heritage",
     "title": "Наследие",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/heritage/cover-original.jpg",
-    "rating": 4.8
+    "rating": 4.8,
+    "description": "У Ариэль есть страшная тайна.",
+    "author": "Саламатова Сабина"
   },
   {
     "textId": "crimson-sunset",
     "title": "Малиновый закат",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/crimson-sunset/cover-original.jpg",
-    "rating": 4.6
+    "rating": 4.6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis enim lobortis scelerisque fermentum dui faucibus in ornare. Quam quisque id diam vel quam elementum. Volutpat blandit aliquam etiam erat velit scelerisque in dictum. Eu augue ut lectus arcu bibendum at. Orci porta non pulvinar neque laoreet. Et pharetra pharetra massa massa ultricies mi quis hendrerit dolor. Auctor urna nunc id cursus metus aliquam eleifend. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula. Ac placerat vestibulum lectus mauris. Pellentesque sit amet porttitor eget dolor morbi non arcu risus. At risus viverra adipiscing at in tellus integer feugiat scelerisque. Feugiat vivamus at augue eget arcu. Bibendum est ultricies integer quis auctor elit sed vulputate. Sodales ut eu sem integer vitae justo eget magna.\nSagittis orci a scelerisque purus. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Sagittis vitae et leo duis. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Sed faucibus turpis in eu mi bibendum neque egestas. Commodo ullamcorper a lacus vestibulum sed arcu. Ipsum consequat nisl vel pretium lectus quam. Dictum non consectetur a erat. Scelerisque fermentum dui faucibus in ornare quam viverra orci sagittis. At volutpat diam ut venenatis tellus in metus.",
+    "author": ""
   },
   {
     "textId": "past-mistakes",
     "title": "Ошибки прошлого",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/past-mistakes/cover-original.jpg",
-    "rating": 3.7
+    "rating": 3.7,
+    "description": "Отважная девушка Рина решает спасти этот мир. Удастся ли ей это?",
+    "author": "Дарья"
   },
   {
     "textId": "special",
     "title": "Особенная",
     "image": "https://bmap-addicted-stories.eu-central-1.linodeobjects.com/images/special/cover-original.jpg",
-    "rating": 4
+    "rating": 4,
+    "description": "Она об этом даже не подозревала…",
+    "author": "Dar_23"
   }
 ]
